@@ -1,9 +1,7 @@
-# React TypeScript Starter Pack
+# React TodoApp
 
-To use this template click `Use this template`
+Implementation of a simple Todo App - [TODO app original](http://todomvc.com/examples/vanillajs/)
 
-### Available Scripts
+This project was implemented by using React, TypeScript, and CSS.
 
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+Here you can find the demo of the [React TodoApp](https://juliiaap.github.io/React_TodoApp/)
